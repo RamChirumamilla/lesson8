@@ -1,0 +1,22 @@
+{
+  "name": "lesson8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamChirumamilla/lesson8.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RamChirumamilla/lesson8/issues"
+  },
+  "homepage": "https://github.com/RamChirumamilla/lesson8#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
